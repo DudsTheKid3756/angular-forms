@@ -69,8 +69,8 @@ export class AppComponent implements OnInit {
     }),
 
     new FormDropdown({
-      key: "blorf",
-      label: "Blorf",
+      key: "blorrf",
+      label: "Blorrf",
       options: [
         { key: "ooglk", value: "Ooglk" },
         { key: "yowlbloof", value: "Yowlbloof" },
